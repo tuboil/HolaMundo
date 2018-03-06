@@ -3,7 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/HolaMundo.iml" filepath="$PROJECT_DIR$/HolaMundo.iml" />
+      <module fileurl="file://C:\Users\local-admin\AndroidStudioProjects\HolaMundo\HolaMundo.iml" filepath="C:\Users\local-admin\AndroidStudioProjects\HolaMundo\HolaMundo.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://C:\Users\local-admin\AndroidStudioProjects\HolaMundo\app\app.iml" filepath="C:\Users\local-admin\AndroidStudioProjects\HolaMundo\app\app.iml" />
     </modules>
   </component>
 </project>
